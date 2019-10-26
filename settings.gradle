@@ -1,0 +1,2 @@
+rootProject.name='NotificationListenerSample'
+include ':app'
